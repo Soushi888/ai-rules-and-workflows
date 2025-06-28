@@ -6,8 +6,6 @@ A library of common rules, prompts, and workflows for AI-assisted IDEs like Curs
 
 ``` text
 .
-├── examples/        # Example implementatons and use cases
-├── prompts/         # Prompts that work across IDEs
 ├── rules/           # Rules that work across IDEs
 ├── workflows/       # Workflows that work across IDEs
 ```
